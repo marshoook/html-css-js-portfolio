@@ -63,6 +63,10 @@
         
     }
 
+    footer p {
+        font-size: 0.9rem;
+    }
+
     #profile{
         height: 83vh;
         margin-bottom: 0;
@@ -85,7 +89,7 @@
     }
 
     .contact-info-container{
-        margin: 0;
+        margin: 0.8rem;
     }
 
     .contact-info-container p, .nav-links li a{
