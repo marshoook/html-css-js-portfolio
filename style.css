@@ -244,9 +244,16 @@ section {
 }
 
 .section__text__p2{
-    font-size:  1.7rem; 
-    margin-bottom: 1rem;
+    
+    font-size:  1.2rem; 
+    margin-bottom: 2rem;
+    margin-top: 0.4rem;
+    
+
 }
+
+
+
 
 .title{
     font-size: 3rem;
@@ -256,7 +263,7 @@ section {
 #socials-container{
     display: flex;
     justify-content: center;
-    margin-top: 1rem;
+    margin-top: 2rem;
     gap: 1rem;
 }
 

@@ -81,4 +81,7 @@ function scrollToTopOrReload() {
       location.reload();
     }
   }
+
+  
+  //Type writter effect for the text on the Load
   
