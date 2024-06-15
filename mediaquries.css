@@ -88,6 +88,11 @@
         font-size: 1.25rem;
     }
 
+    .logo img{
+        max-width: 85px;
+        max-height: 85px;
+    }
+
     .logo{
         font-size: 1.5rem;
     }
