@@ -23,3 +23,16 @@ function reveal(){
         }
     }
 }
+
+// script.js
+document.getElementById('reload-image').addEventListener('click', function() {
+    // Reload the page
+    location.reload(true);
+  });
+
+// script.js
+document.getElementById('reload-image2').addEventListener('click', function() {
+    // Reload the page
+    location.reload(true);
+  });
+  
