@@ -48,6 +48,20 @@ nav {
     justify-content: space-around;
     align-items: center;
     height: 17vh;
+    padding: 10px 0;
+}
+
+#header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    transition: top 0.3s;
+    z-index: 1000;
+}
+
+.content{
+    margin-top: 130px;
 }
 
 .nav-links{
@@ -95,6 +109,16 @@ a:hover {
 }
 
 /* HAMBURGER MENU */
+
+
+#header2 {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    transition: top 0.3s;
+    z-index: 1000;
+}
 
 #hamburger-nav {
     display: none;
@@ -177,7 +201,7 @@ a:hover {
 
 section {
    padding-top: 4vh; 
-   height: 96vh;
+   height: 100vh;
    margin: 0 10rem;
    box-sizing: border-box;
    min-height: fit-content;

@@ -58,9 +58,18 @@
 
     }
 
+    #header2{
+        height: 130px;
+        
+    }
+
     #profile{
         height: 83vh;
         margin-bottom: 0;
+    }
+
+    .menu-links a {
+        font-size: 1.15rem;
     }
 
     article{
