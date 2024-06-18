@@ -30,6 +30,12 @@ function reveal(){
 }
 
 
+//logo-image reload button 
+document.getElementById('logo-image').addEventListener('click', function() {
+    location.reload();
+});
+
+
   
  //Sticky nav bar animation Desktop
 // script.js
